@@ -1,4 +1,4 @@
-100匹のマスより1匹のメカジキを。
+Print("Hello World")
 
 - 👋 Hi, I’m @TakenoSite
 - 👀 I’m interested in ...
